@@ -18,6 +18,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
-<a href="https://instagram.com/deltaaa.qwe"><img src="https://img.shields.io/badge/@acarfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/deltaaa.qwe"><img src="https://img.shields.io/badge/@deltaaa.qwe-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
   
 
