@@ -6,6 +6,8 @@
   Turkish Student </> Discord Full Stack Developer 
   
  💬 ⸸ DeLtaaaXD#1917
+      
+      
  🔍 https://discord.gg/wvVdCWR6rD
   
 
