@@ -1,15 +1,15 @@
->İnstagram: https://www.instagram.com/accounts/onetap/?next=%2F
+> İnstagram: https://www.instagram.com/accounts/onetap/?next=%2F
 
 
 
->⸸ DeLtaaaXD#1917
+> ⸸ DeLtaaaXD#1917
 
 
 > Hey! I'am DeLta-
 
 
 
-Turkish Student </>
+> Turkish Student </>
 
 
 > Full Stack Developer
