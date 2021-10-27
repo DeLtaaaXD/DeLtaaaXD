@@ -1,4 +1,6 @@
 ### Hello I'm DeLtaaaXD 
+
+![profile count](https://komarev.com/ghpvc/?username=Ariscikmis&color=red)&nbsp;
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/561797922442838027
                             )](https://discord.com/users/561797922442838027)
 
