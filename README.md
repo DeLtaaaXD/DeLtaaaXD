@@ -1,4 +1,7 @@
 ### Hello I'm DeLtaaaXD 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/561797922442838027)](https://discord.com/users/561797922442838027)
+## Hakkımda
+
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
 [![GitHub DeLtaaaXD](https://img.shields.io/github/followers/acarfx?label=follow&style=social)](https://github.com/DeLtaaaXD)&nbsp;
