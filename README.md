@@ -1,4 +1,4 @@
-<h2 align="center">Who's null? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center">Who's DeLta? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 - Hi I'm Samed so DeLta 
 - I love being able to edit and update bots I find in Github repos 
