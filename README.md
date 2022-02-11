@@ -1,21 +1,31 @@
-### Hello I'm DeLtaaaXD 
-![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
-[![GitHub DeLtaaaXD](https://img.shields.io/github/followers/acarfx?label=follow&style=social)](https://github.com/DeLtaaaXD)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+<h2 align="center">Who's null? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-### 🛠 &nbsp;Software Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- Hi I'm Samed so DeLta 
+- I love being able to edit and update bots I find in Github repos 
+- rewriting or rewriting is almost the same thing, so I'm not in favor of writing from scratch 
+- I'm learning Python now Javascript is over in my eyes :) 
+- I have opened a resource server for other people to learn their software languages and it is completely free 
+- To join my open source server [Click](https://discord.gg/1834)
+
+<h3>🔥 Cool people </h3>
+<img src="https://komarev.com/ghpvc/?username=DeLta&label=Ziyaretçi%20Sayısı&color=552b75" alt="DeLta" />
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/s3medreala?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
+<h3>🌟 Social media </h3>
+
+[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/1834)
+[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCI6RJfi39POZ6U3dggXuynQ)
+[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/s3medreal)
+[![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/s3medofficial/)
+
+<h1 align="center"> My Discord accounts <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/561797922442838027?hideDiscrim=true)](https://discord.com/users/561797922442838027)
+
+<h3 align="left">🍒 GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=s3medreal&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3medreal&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+
 
   
 
